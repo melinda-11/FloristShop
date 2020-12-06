@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FloristShop</string>
+    <string name="profile_nama">Informatics Engineering</string>
+    <string name="profile_melinda">Melinda</string>
+    <string name="profile_kiriman">kiriman</string>
+    <string name="profile_10">10</string>
+    <string name="profile_750k">750k</string>
+    <string name="profile_858">858</string>
+    <string name="profile_ikuti">Ikuti</string>
+    <string name="profile_ketapang_kalbar">Ketapang,Kalbar</string>
+    <string name="profile_pengikut">pengikut</string>
+    <string name="profile_diikuti">diikuti</string>
+    <string name="profile_politeknik_negeri_ketapang">Politeknik Negeri Ketapang</string>
+    <string name="profile_kirim_pesan">Kirim Pesan</string>
+</resources>
